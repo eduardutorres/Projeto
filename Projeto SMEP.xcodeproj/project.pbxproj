@@ -51,7 +51,7 @@
 		738F4E822DB97B4100284CF4 = {
 			isa = PBXGroup;
 			children = (
-				738F4E8D2DB97B4100284CF4 /* Project */,
+				738F4E8D2DB97B4100284CF4 /* Projeto */,
 				738F4E8C2DB97B4100284CF4 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -64,7 +64,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		738F4E8D2DB97B4100284CF4 /* Project */ = {
+		738F4E8D2DB97B4100284CF4 /* Projeto */ = {
 			isa = PBXGroup;
 			children = (
 				738F4E9C2DB97B6700284CF4 /* Create */,
@@ -79,7 +79,7 @@
 				738F4E922DB97B4300284CF4 /* Assets.xcassets */,
 				738F4E942DB97B4300284CF4 /* Preview Content */,
 			);
-			path = Project;
+			path = Projeto;
 			sourceTree = "<group>";
 		};
 		738F4E942DB97B4300284CF4 /* Preview Content */ = {
@@ -322,7 +322,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Project/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Projeto/Preview Content\"";
 				DEVELOPMENT_TEAM = NCMWU2TBM3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -351,7 +351,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Project/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Projeto/Preview Content\"";
 				DEVELOPMENT_TEAM = NCMWU2TBM3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
